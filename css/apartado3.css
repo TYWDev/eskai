@@ -1,0 +1,94 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	height:600px;
+	background-image:url(https://cdn.wallpaperhub.app/cloudcache/7/1/a/6/1/f/71a61f94c637cf50915541a824fa099e8fd2050c.png);
+	background-size:90rem;
+}
+
+h1{
+	font:Arial, Helvetica, sans-serif;
+	font-size:34px;
+	text-align:center;
+	margin:0;
+}
+
+h2{
+	font:Arial, Helvetica, sans-serif;
+	font-size:28px;
+	text-align:center;
+	margin:0;
+}
+
+p{
+	font:Arial, Helvetica, sans-serif;
+	font-size:24px;
+	text-align:center;
+	margin:0;
+}
+
+.reference{
+	font:Arial, Helvetica, sans-serif;
+	font-size:36px;
+	color:#FFF;
+}
+
+.seriesx1{
+	height:280px;
+}
+
+.seriesx2{
+	height:280px;
+}
+
+.seriesx3{
+	height:280px;
+}
+
+.seriesx4{
+	height:280px;
+}
+
+.seriesx5{
+	height:280px;
+}
+
+.seriesx6{
+height:280px;
+}
+
+.seriesx7{
+	height:280px;
+}
+
+.seriesx8{
+	height:280px;
+}
+
+.seriesx9{
+	height:280px;
+}
+
+.seriesx10{
+	height:280px;
+}
+
+.seriesx11{
+	height:280px;
+}
+
+.seriesx12{
+	height:280px;
+}
+
+.seriesx13{
+	height:280px;
+}
+
+.seriesx14{
+	height:280px;
+}
+
+.seriesx15{
+	height:280px;
+}

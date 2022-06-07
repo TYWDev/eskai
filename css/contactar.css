@@ -1,0 +1,60 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	height:600px;
+	background-image:url(https://pbs.twimg.com/media/Ec4ycuAUMAUKGyN.png:large);
+	background-size:110rem;
+}
+
+h1{
+	font:Arial, Helvetica, sans-serif;
+	font-size:34px;
+	text-align:center;
+	margin:0;
+}
+
+h2{
+	font:Arial, Helvetica, sans-serif;
+	font-size:28px;
+	text-align:center;
+	margin:0;
+}
+
+p{
+	font:Arial, Helvetica, sans-serif;
+	font-size:24px;
+	text-align:justify;
+	margin:0;
+}
+
+.reference{
+	font:Arial, Helvetica, sans-serif;
+	font-size:36px;
+	color:#FFF;
+}
+
+.logo{
+}
+
+.phone{
+	height:50px;
+}
+
+.email{
+	height:50px;
+}
+
+.help{
+	height:310px;
+}
+
+.computer{
+	height:350px;
+}
+
+.send{
+	background-color:#999;
+    color: white;
+    padding: 15px 25px;
+    text-decoration: none;
+}

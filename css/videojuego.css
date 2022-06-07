@@ -1,0 +1,46 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	height:600px;
+	background-image: url(https://www.madridsalud.es/serviciopad/wp-content/uploads/2016/04/estudio-revela-que-estadounidenses-gastan-cada-vez-mas-en-videojuegos-02-e1445888221548.jpg);
+	background-size:95rem;
+}
+
+h1{
+	font:Arial, Helvetica, sans-serif;
+	font-size:34px;
+	text-align:center;
+	margin:0;
+}
+
+h2{
+	font:Arial, Helvetica, sans-serif;
+	font-size:28px;
+	text-align:center;
+	margin:0;
+}
+
+p{
+	font:Arial, Helvetica, sans-serif;
+	font-size:24px;
+	text-align:center;
+	margin:0;
+}
+
+.reference{
+	font:Arial, Helvetica, sans-serif;
+	font-size:36px;
+	color:#FFF;
+}
+
+.nsw{
+	height:330px;
+}
+
+.ps5{
+	height:250px;
+}
+
+.seriesx{
+	height:260px;
+}

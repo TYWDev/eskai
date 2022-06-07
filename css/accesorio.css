@@ -1,0 +1,58 @@
+@charset "utf-8";
+/* CSS Document */
+body{
+	height:600px;
+	background-image:url(https://www.eleconomista.net/export/sites/prensagrafica/img/2020/03/30/shutterstock_1189364446a.jpg_1102185208.jpg);
+	background-size:90rem;
+}
+
+h1{
+	font:Arial, Helvetica, sans-serif;
+	font-size:34px;
+	text-align:center;
+	margin:0;
+}
+
+h2{
+	font:Arial, Helvetica, sans-serif;
+	font-size:28px;
+	text-align:center;
+	margin:0;
+}
+
+p{
+	font:Arial, Helvetica, sans-serif;
+	font-size:24px;
+	text-align:justify;
+	margin:0;
+}
+
+.reference{
+	font:Arial, Helvetica, sans-serif;
+	font-size:36px;
+	color:#FFF;
+}
+
+.control{
+	height:250px;
+}
+
+.headphone{
+	height:250px;
+}
+
+.sd{
+	height:250px;
+}
+
+.adapter{
+	height:170px;
+}
+
+.cable{
+	height:250px;
+}
+
+.kit{
+	height:250px;
+}
